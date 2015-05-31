@@ -1,5 +1,2 @@
 # Blog_ScriptsAndData
-Here is where I deposit the data and scripts used for boss on my blog: All Truisms (http:/christophertokita.wordpress.com/)
-
-Data projects available:
-1) Supreme Court-Current Court Analysis
+The scripts and data for my blog post: https://christophertokita.wordpress.com/2015/05/26/the-judicious-networks-of-the-current-supreme-court/
