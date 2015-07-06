@@ -1,2 +1,2 @@
-# Blog_ScriptsAndData
-The scripts and data for my blog post: https://christophertokita.wordpress.com
+#AllTruismsBlog
+The scripts and data for my blog: https://christophertokita.wordpress.com
