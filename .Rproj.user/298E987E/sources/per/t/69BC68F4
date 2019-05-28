@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547765038202.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "69BC68F4",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1547765038202,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4E358730",
+        "caption" : "diversity_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=diversity_data&cache_key=4E358730",
+        "displayedObservations" : "53",
+        "environment" : "",
+        "object" : "diversity_data",
+        "preview" : "0",
+        "totalObservations" : "53",
+        "variables" : "7"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

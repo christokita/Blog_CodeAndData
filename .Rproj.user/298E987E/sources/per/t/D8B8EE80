@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547764821308.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D8B8EE80",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1547764821308,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E460FC6D",
+        "caption" : "diversity_simp",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=diversity_simp&cache_key=E460FC6D",
+        "displayedObservations" : 53,
+        "environment" : "",
+        "object" : "diversity_simp",
+        "preview" : 0,
+        "totalObservations" : 53,
+        "variables" : 2
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

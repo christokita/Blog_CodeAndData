@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547764980498.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F7D2F391",
+    "lastKnownWriteTime" : 8320800952261107968,
+    "last_content_update" : 1547764980498,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F8A253F",
+        "caption" : "diversity_shann",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=diversity_shann&cache_key=F8A253F",
+        "displayedObservations" : 53,
+        "environment" : "",
+        "object" : "diversity_shann",
+        "preview" : 0,
+        "totalObservations" : 53,
+        "variables" : 2
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

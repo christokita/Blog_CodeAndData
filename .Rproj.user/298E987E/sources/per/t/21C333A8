@@ -12,9 +12,9 @@
     "path" : null,
     "project_path" : null,
     "properties" : {
-        "cacheKey" : "A92E62DE",
+        "cacheKey" : "87A5977B",
         "caption" : "state_perc",
-        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=state_perc&cache_key=A92E62DE",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=state_perc&cache_key=87A5977B",
         "displayedObservations" : "424",
         "environment" : "",
         "object" : "state_perc",

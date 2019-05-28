@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547762754479.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3937810191",
+    "id" : "980390C5",
+    "lastKnownWriteTime" : 1548043140,
+    "last_content_update" : 1548043140622,
+    "path" : "~/Documents/Research/DataAnalysis/Blog_CodeAndData/state_diversity/scripts/3_analyze_data.R",
+    "project_path" : "state_diversity/scripts/3_analyze_data.R",
+    "properties" : {
+        "cursorPosition" : "51,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
